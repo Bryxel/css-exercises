@@ -1,0 +1,14 @@
+#one {
+    background-color: #000;
+    color: white
+}
+
+#two {
+    background-color: rgb(246, 250, 39)
+}
+
+#one,
+#two {
+    font-size: 28px;
+    fonts: Helvetica, 'Times New Roman', sans-serif
+}
